@@ -1,0 +1,96 @@
+{
+  "main": {
+    "name": "Sanket Kumar Sirsat",
+    "occupation": "Web Developer",
+    "description": "",
+    "image": "profile.jpeg",
+    "bio": "Looking for new challenges in this fast-paced technology world. Capable of working with a variety of technology and software solutions, and managing databases.Looking for a part-time job or an internship opportunity to gain a good amount of experience before stepping into more depth of IT industry.",
+    "contactmessage": "Feel free to drop me a message",
+    "email": "sanketbusiness60@gmail.com",
+    "phone": "+91 7568631761",
+    "address": {
+      "street": "",
+      "city": "(Greater Noida, Uttar Pradesh)",
+      "state": "(Uttar Pradesh)",
+      "zip": "201310"
+    },
+    
+    "resumedownload": "https://docdro.id/H3DZkhD",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sanket-sirsat-371086172/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Aditya Birla Public School",
+        "degree": "Senior Secondary",
+        "graduated": "04/2016 - 04/2018"
+      },
+      {
+        "school": "Sharda University",
+        "degree": "Bachelors in Computer Science and Engineering",
+        "graduated": "06/2018 - 06/2022"
+      }
+    ],
+    "work": [
+      {
+        "title": "Tic Tac Toe Game"
+        
+        
+        
+      },
+      {
+        "title": "Recipe Search App"
+        
+      },
+      {
+        "title": "Todo List App"
+      }
+      
+
+      
+    ],
+    "skills": [
+      {
+        "name": "React JS",
+        "level": "80%"
+      },
+      {
+        "name": "Java Script",
+        "level": "85%"
+      },
+      {
+        "name": "MySql",
+        "level": "100%"
+      },
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "70%"
+      },
+      {
+        "name": "API",
+        "level": "50%"
+      },
+      {
+        "name": "GIT",
+        "level": "50%"
+      }
+      
+    ]
+  }
+  
+}
